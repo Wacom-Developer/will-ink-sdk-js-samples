@@ -1,0 +1,28 @@
+{
+  "name": "digital-ink-samples",
+  "productName": "Digital Ink Samples for Web",
+  "description": "Learning curve samples for starting Digital Ink developers",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@digital-ink/wasm": "^1.0.0",
+    "@digital-ink/workers": "^1.0.0",
+    "@wacom/web-components": "^1.0.0",
+    "ag-psd": "^20.0.0",
+    "digital-ink": "^2.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pdf-lib": "^1.17.1"
+  },
+  "scripts": {
+    "start": "node -r dotenv/config ./src/server/index.mjs"
+  },
+  "repository": "https://github.com/wacom/ink-samples.git",
+  "repository-private": "https://bitbucket.org/wacompa/ink-samples.git",
+  "author": "Wacom Co LTD",
+  "homepage": "https://ink-samples.wacom.com",
+  "bugs": {
+    "url": "https://github.com/wacom/ink-samples/issues"
+  },
+  "license": "MIT"
+}
