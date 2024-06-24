@@ -1,4 +1,4 @@
-# WILL SDK for ink - Web
+# WILL SDK for ink - JavaScript
 
 **Wacom Ink Layer Language (WILL™)** is a cross-platform digital ink technology.
 It is based on the needs of the end-user and Wacom's experience with different domains.

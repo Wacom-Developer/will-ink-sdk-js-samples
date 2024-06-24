@@ -1,4 +1,4 @@
-# WILL SDK for ink - Web
+# WILL SDK for ink - JavaScript
 
 ## Product: WILL3 Technology
 
